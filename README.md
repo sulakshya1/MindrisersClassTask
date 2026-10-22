@@ -1,2 +1,2 @@
 # MindrisersClassTask
-Tasks given by leacturer.
+Tasks given by lecturer.
