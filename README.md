@@ -37,7 +37,7 @@ Python/
 │
 ├── modules_packages.ipynb
 │
-├── 14_Practice_Projects/
+├── Practice_Projects/
 │   ├── atm_simulation.ipynb
 │   ├── number_guessing_game.ipynb
 │   └── rock_paper_scissors.ipynb
